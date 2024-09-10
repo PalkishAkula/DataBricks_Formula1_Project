@@ -1,0 +1,3 @@
+1.(database schema)http://ergast.com/images/ergast_db.png
+2.(solution)https://lucid.app/lucidchart/0defec7d-32c9-4700-8e8e-b1bad8b5c685/edit?viewport_loc=-322%2C-440%2C3436%2C1388%2C0_0&invitationId=inv_43c66f16-0e36-49fd-b8fe-543ef737730c
+3.(data)https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
